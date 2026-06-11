@@ -320,7 +320,7 @@ Providing freelance support in digital marketing, lead generation, and campaign 
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://takeuforward.org/plus/dsa/roadmap">
+<a href="https://takeuforward.org/profile/krishna_108">
 <img src="https://img.shields.io/badge/TUF+-DSA%20Roadmap-6D28D9?style=for-the-badge"/>
 </a>
 
