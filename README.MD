@@ -1,44 +1,44 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,20:312e81,50:6d28d9,80:7c3aed,100:4f46e5&text=SOFTWARE%20ENGINEER%20%7C%20AI%20ENGINEER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,20:312e81,50:6d28d9,80:7c3aed,100:4f46e5&text=KRISHNA%20DEVANSH%20RAO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;AI%2FML+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Products;Engineering+for+Impact"/>
-
-<br/>
-
-![](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20%26%20ML-Specialization-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Product%20Engineering-Focused-7C3AED?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;DSA+Learner;Web+Developer;Digital+Marketing+Enthusiast;Building+Projects+%26+Learning+Daily;Future+Software+Engineer"/>
 
 <br/>
 
-![](https://img.shields.io/badge/Location-India-111827?style=for-the-badge&logo=googlemaps&logoColor=white)
+![](https://img.shields.io/badge/BCA-Shri%20Shankaracharya%20University-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/DSA-Active%20Learner-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Web%20Development-Project%20Builder-7C3AED?style=for-the-badge)
+
+<br/>
+
+![](https://img.shields.io/badge/Location-Raipur%2C%20Chhattisgarh-111827?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/><br/>
 
-<a href="https://portfolio.example.com">
+<a href="https://krishnadevanshrao.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/krishna-devansh-rao/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@example.com">
+<a href="mailto:krishnadevanshrao@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Krishna-Devansh-Rao">
 <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6D28D9"/>
+<img src="https://komarev.com/ghpvc/?username=Krishna-Devansh-Rao&style=for-the-badge&color=6D28D9"/>
 
-<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=4F46E5&label=Followers"/>
+<img src="https://img.shields.io/github/followers/Krishna-Devansh-Rao?style=for-the-badge&color=4F46E5&label=Followers"/>
 
-<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=7C3AED&label=Stars"/>
+<img src="https://img.shields.io/github/stars/Krishna-Devansh-Rao?style=for-the-badge&color=7C3AED&label=Stars"/>
 
 </div>
 
@@ -46,31 +46,29 @@
 
 # About
 
-Software Engineer with a strong foundation in scalable systems, AI-powered applications, distributed architectures, and full-stack product development. Passionate about transforming complex business requirements into reliable, maintainable, and high-performance software solutions.
+Software Engineering student with a growing foundation in software development, problem solving, web technologies, and digital marketing. Passionate about building practical projects, learning Data Structures & Algorithms, and continuously improving technical skills through hands-on development.
 
-My engineering philosophy combines product thinking, clean architecture, automation-first development, and data-driven decision-making. I enjoy building systems that balance performance, security, developer experience, and long-term maintainability.
+My focus is on becoming a strong software engineer by combining problem-solving ability, product thinking, and real-world project experience. I enjoy building useful applications, exploring new technologies, and sharing my learning journey publicly.
 
 ### Core Expertise
 
-- Software Engineering
-- Artificial Intelligence & Machine Learning
-- Full Stack Web Development
-- Cloud Native Applications
-- API Design & Microservices
-- System Design & Scalability
-- DevOps & Infrastructure Automation
-- Data Engineering & Analytics
+- Software Development
+- Data Structures & Algorithms
+- Frontend Development
+- JavaScript Fundamentals
+- Problem Solving
+- Digital Marketing
+- Git & Version Control
+- Continuous Learning
 
 ### Open To
 
-- Software Engineering Roles
-- AI / ML Engineering Roles
-- Full Stack Engineering
-- Platform Engineering
-- Product Engineering
-- Open Source Collaboration
-- Technical Consulting
-- Research & Innovation Projects
+- Software Engineering Internships
+- Web Development Opportunities
+- Open Source Contributions
+- Freelance Projects
+- Technical Collaborations
+- Student Developer Programs
 
 ---
 
@@ -80,7 +78,7 @@ My engineering philosophy combines product thinking, clean architecture, automat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,go,rust,bash"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
 
 </div>
 
@@ -88,7 +86,7 @@ My engineering philosophy combines product thinking, clean architecture, automat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,redux,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 
 </div>
 
@@ -96,7 +94,7 @@ My engineering philosophy combines product thinking, clean architecture, automat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,mongodb,postgres,mysql,redis"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
 </div>
 
@@ -104,7 +102,7 @@ My engineering philosophy combines product thinking, clean architecture, automat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,linux,git"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </div>
 
@@ -114,120 +112,122 @@ My engineering philosophy combines product thinking, clean architecture, automat
 
 | Domain | Proficiency | Details |
 |----------|----------|----------|
-| Machine Learning | Advanced | Supervised, Unsupervised, Ensemble Models |
-| Deep Learning | Advanced | CNNs, RNNs, Transformers |
-| NLP | Advanced | LLM Integration, Semantic Search, RAG |
-| Computer Vision | Intermediate | Detection, Classification, OCR |
-| MLOps | Advanced | Model Deployment, Monitoring, CI/CD |
-| Data Engineering | Advanced | ETL Pipelines, Data Warehousing |
-| Generative AI | Advanced | LLM Applications, Agents, Vector Databases |
-| AI Product Development | Advanced | End-to-End Production Systems |
+| Prompt Engineering | Beginner | OpenAI Prompting Concepts |
+| AI Tools | Beginner | Productivity & Workflow Automation |
+| AI Applications | Beginner | Exploring Real-World Use Cases |
+| Machine Learning | Learning | Building Foundational Knowledge |
+| Data Analysis | Learning | Python-Based Learning Projects |
+| Generative AI | Learning | LLM Concepts & Prompting |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>AI Enterprise Assistant Platform</b></summary>
+<summary><b>PasteSnap — Instant Image Saver</b></summary>
 
 ### Project Overview
 
-Production-grade AI assistant platform enabling intelligent knowledge retrieval, workflow automation, and enterprise search.
+A lightweight web application that allows users to quickly save and organize images through a simple and efficient interface.
 
 | Metric | Details |
 |---------|---------|
-| Stack | Python, FastAPI, PostgreSQL, Redis, OpenAI, Docker |
-| Scale | Multi-tenant Architecture |
-| Performance | Sub-second Retrieval |
-| Security | RBAC, JWT, Audit Logging |
-| Impact | Reduced Operational Effort |
-| Repository | https://github.com/yourusername/project |
+| Stack | HTML, CSS, JavaScript |
+| Scale | Personal Productivity Tool |
+| Performance | Lightweight Frontend |
+| Security | Client Side Processing |
+| Impact | Faster Image Management |
+| Repository | https://github.com/Krishna-Devansh-Rao/PasteSnap-Instant-Image-Saver |
 
 #### Engineering Highlights
 
-- Retrieval Augmented Generation (RAG)
-- Vector Database Integration
-- Multi-tenant SaaS Design
-- Production Monitoring
-- Enterprise Security Controls
+- Responsive Interface
+- Fast Image Saving Workflow
+- Clean User Experience
+- Browser-Based Utility
+
+#### Live Demo
+
+https://pastesnap.netlify.app/
 
 </details>
 
 <details>
-<summary><b>Cloud Native Microservices Platform</b></summary>
+<summary><b>Consistency Tracker</b></summary>
 
 ### Project Overview
 
-Scalable microservices ecosystem designed for high-availability business operations and distributed workloads.
+A productivity-focused web application designed to help users build habits, track progress, and maintain consistency.
 
 | Metric | Details |
 |---------|---------|
-| Stack | Node.js, Kubernetes, Docker, PostgreSQL |
-| Scale | Horizontal Scaling |
-| Performance | High Throughput APIs |
-| Security | OAuth2, Secrets Management |
-| Impact | Improved Reliability |
-| Repository | https://github.com/yourusername/project |
+| Stack | HTML, CSS, JavaScript |
+| Scale | Individual Productivity |
+| Performance | Lightweight & Fast |
+| Security | Local Data Handling |
+| Impact | Improved Habit Tracking |
+| Repository | https://github.com/Krishna-Devansh-Rao/Consistency-Tracker |
 
 #### Engineering Highlights
 
-- Event Driven Architecture
-- Distributed Services
-- API Gateway Integration
-- Observability Stack
-- CI/CD Automation
+- Daily Progress Tracking
+- Habit Building System
+- Responsive Design
+- Productivity Focused
+
+#### Live Demo
+
+https://trackconsistency.netlify.app/
 
 </details>
 
 <details>
-<summary><b>Real-Time Analytics Dashboard</b></summary>
+<summary><b>The Complete FAANG Preparation</b></summary>
 
 ### Project Overview
 
-Business intelligence platform providing real-time insights and advanced analytics.
+A structured repository containing resources, roadmaps, and preparation materials for technical interviews and DSA learning.
 
 | Metric | Details |
 |---------|---------|
-| Stack | React, Next.js, FastAPI, PostgreSQL |
-| Scale | Enterprise Reporting |
-| Performance | Real-Time Updates |
-| Security | Role-Based Access |
-| Impact | Faster Decision Making |
-| Repository | https://github.com/yourusername/project |
+| Stack | Markdown, GitHub |
+| Scale | Learning Repository |
+| Performance | Structured Resources |
+| Security | Open Repository |
+| Impact | Interview Preparation |
+| Repository | https://github.com/Krishna-Devansh-Rao/The-Complete-FAANG-Preparation |
 
 #### Engineering Highlights
 
-- Streaming Data Pipelines
-- Interactive Dashboards
-- Data Visualization
-- API Optimization
-- Reporting Automation
+- DSA Roadmaps
+- Interview Resources
+- Learning Material Collection
+- Structured Preparation Approach
 
 </details>
 
 <details>
-<summary><b>MLOps Deployment Framework</b></summary>
+<summary><b>Striver A-to-Z DSA Journey</b></summary>
 
 ### Project Overview
 
-Automated machine learning deployment infrastructure supporting reproducible model releases.
+A dedicated repository following the famous Striver A2Z roadmap for systematic Data Structures and Algorithms preparation.
 
 | Metric | Details |
 |---------|---------|
-| Stack | Python, MLflow, Kubernetes, AWS |
-| Scale | Multiple Model Pipelines |
-| Performance | Automated Deployments |
-| Security | Secure Artifact Management |
-| Impact | Reduced Deployment Time |
-| Repository | https://github.com/yourusername/project |
+| Stack | C++, GitHub |
+| Scale | Learning Repository |
+| Performance | Structured Learning |
+| Security | Open Repository |
+| Impact | Consistent DSA Growth |
+| Repository | https://github.com/Krishna-Devansh-Rao/Stiver-A-to-Z |
 
 #### Engineering Highlights
 
-- CI/CD for ML
-- Experiment Tracking
-- Model Registry
-- Automated Rollbacks
-- Monitoring & Alerting
+- Problem Solving Practice
+- Structured DSA Learning
+- Interview Preparation
+- Consistency Tracking
 
 </details>
 
@@ -235,44 +235,44 @@ Automated machine learning deployment infrastructure supporting reproducible mod
 
 # Experience
 
-## Software Engineer | Company Name
+## Digital Marketing Intern
 
-**Jan 2025 – Present**
+**Aug 2025 – May 2026**
 
-Building scalable software systems and modern web applications while collaborating with cross-functional teams to deliver business-critical solutions.
+Worked on digital marketing campaigns, content planning, audience engagement, and brand visibility initiatives.
 
 ### Scope of Work
 
-- Designed and implemented scalable backend services
-- Developed production-grade APIs
-- Optimized database performance
-- Improved deployment automation
-- Integrated AI-powered workflows
-- Enhanced monitoring and observability
+- Social Media Management
+- Campaign Planning
+- Audience Engagement
+- Brand Promotion
+- Marketing Analysis
+- Content Strategy
 
 **Skills**
 
-`Python` `FastAPI` `React` `Docker` `PostgreSQL` `AWS`
+`Digital Marketing` `Content Strategy` `Social Media Marketing`
 
 ---
 
-## AI / ML Engineer | Company Name
+## Freelance Digital Marketing
 
-**Jun 2024 – Dec 2024**
+**Sep 2025 – Present**
 
-Developed machine learning solutions and intelligent automation systems focused on business impact and operational efficiency.
+Providing freelance support in digital marketing, lead generation, and campaign optimization.
 
 ### Scope of Work
 
-- Built predictive models
-- Deployed ML pipelines
-- Created AI integrations
-- Automated workflows
-- Implemented monitoring systems
+- Lead Generation
+- Campaign Management
+- Social Media Optimization
+- Client Communication
+- Digital Branding
 
 **Skills**
 
-`Machine Learning` `Deep Learning` `MLOps` `Python`
+`Google Ads` `Meta Ads` `Lead Generation`
 
 ---
 
@@ -282,11 +282,11 @@ Developed machine learning solutions and intelligent automation systems focused 
 
 | Recognition | Details |
 |-------------|----------|
-| Open Source Contributions | Contributed to multiple community-driven repositories |
-| Technical Leadership | Led engineering initiatives and mentoring programs |
-| Product Innovation | Built scalable software solutions with measurable impact |
-| AI Engineering | Developed production-ready AI applications |
-| Continuous Learning | Earned industry-recognized certifications |
+| Project Builder | Developed multiple practical web projects |
+| DSA Journey | Started structured problem-solving journey |
+| Continuous Learning | Actively learning software engineering concepts |
+| Digital Marketing | Internship and freelance experience |
+| Public Portfolio | Built and deployed personal portfolio website |
 
 </div>
 
@@ -294,25 +294,21 @@ Developed machine learning solutions and intelligent automation systems focused 
 
 # Certifications
 
-## AWS
+## IBM
 
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/IBM-Career%20Excellence%20Program-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
-### Oracle
+### Google
 
-![](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/Google-Dialogue%20Design-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### NPTEL
+### OpenAI
 
-![](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-2563EB?style=for-the-badge)
-![](https://img.shields.io/badge/NPTEL-Data%20Structures-2563EB?style=for-the-badge)
+![](https://img.shields.io/badge/OpenAI-Learn%20Prompting-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Cisco
+### Digital Marketing
 
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/Digital%20Marketing-Professional%20Diploma-7C3AED?style=for-the-badge)
 
 ---
 
@@ -320,20 +316,24 @@ Developed machine learning solutions and intelligent automation systems focused 
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/krishna-devansh-rao/">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://takeuforward.org/plus/dsa/roadmap">
+<img src="https://img.shields.io/badge/TUF+-DSA%20Roadmap-6D28D9?style=for-the-badge"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/studyonly100717">
 <img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/krishnadevansh">
 <img src="https://img.shields.io/badge/CodeChef-Programming%20Profile-5B4638?style=for-the-badge"/>
+</a>
+
+<a href="https://www.hackerearth.com/@krishnadevanshrao/">
+<img src="https://img.shields.io/badge/HackerEarth-Coding%20Profile-323754?style=for-the-badge"/>
 </a>
 
 </div>
@@ -344,15 +344,15 @@ Developed machine learning solutions and intelligent automation systems focused 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishna-Devansh-Rao&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Devansh-Rao&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Devansh-Rao&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -362,7 +362,7 @@ Developed machine learning solutions and intelligent automation systems focused 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Krishna-Devansh-Rao&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -372,7 +372,7 @@ Developed machine learning solutions and intelligent automation systems focused 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Devansh-Rao&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -382,7 +382,7 @@ Developed machine learning solutions and intelligent automation systems focused 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Krishna-Devansh-Rao/Krishna-Devansh-Rao/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -392,28 +392,28 @@ Developed machine learning solutions and intelligent automation systems focused 
 
 ```yaml
 Learning:
-  - Advanced System Design
-  - Distributed Systems
-  - AI Infrastructure
-  - MLOps
+  - Data Structures & Algorithms
+  - Web Development
+  - JavaScript
+  - Software Engineering Fundamentals
 
 Building:
-  - Enterprise SaaS Platforms
-  - AI Agent Ecosystems
-  - Developer Tools
-  - Cloud Native Applications
+  - Personal Projects
+  - Portfolio Improvements
+  - DSA Repository
+  - Productivity Tools
 
 Exploring:
-  - Generative AI
-  - Agentic Workflows
-  - Edge Computing
-  - Platform Engineering
+  - AI Tools
+  - Automation
+  - Open Source
+  - Modern Web Development
 
 Open_To:
-  - Software Engineering Roles
-  - AI Engineering Roles
-  - Open Source Collaboration
-  - Product Development
+  - Internships
+  - Freelance Projects
+  - Collaborations
+  - Open Source Contributions
 ```
 
 ---
@@ -422,19 +422,19 @@ Open_To:
 
 <div align="center">
 
-<a href="mailto:yourmail@example.com">
+<a href="mailto:krishnadevanshrao@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/krishna-devansh-rao/">
 <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Krishna-Devansh-Rao">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio.example.com">
+<a href="https://krishnadevanshrao.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -444,7 +444,7 @@ Open_To:
 
 <div align="center">
 
-### "Engineering scalable systems that create measurable impact."
+### "Consistency compounds. Build, learn, improve, repeat."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,20:312e81,50:6d28d9,80:7c3aed,100:4f46e5"/>
 
