@@ -52,23 +52,12 @@ My focus is on becoming a strong software engineer by combining problem-solving 
 
 ### Core Expertise
 
-- Software Development
 - Data Structures & Algorithms
 - Frontend Development
-- JavaScript Fundamentals
 - Problem Solving
 - Digital Marketing
 - Git & Version Control
 - Continuous Learning
-
-### Open To
-
-- Software Engineering Internships
-- Web Development Opportunities
-- Open Source Contributions
-- Freelance Projects
-- Technical Collaborations
-- Student Developer Programs
 
 ---
 
@@ -358,31 +347,11 @@ Providing freelance support in digital marketing, lead generation, and campaign 
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Krishna-Devansh-Rao&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Devansh-Rao&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Krishna-Devansh-Rao/Krishna-Devansh-Rao/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -408,13 +377,6 @@ Exploring:
   - Automation
   - Open Source
   - Modern Web Development
-
-Open_To:
-  - Internships
-  - Freelance Projects
-  - Collaborations
-  - Open Source Contributions
-```
 
 ---
 
